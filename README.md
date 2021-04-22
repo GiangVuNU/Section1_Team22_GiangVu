@@ -11,3 +11,4 @@ optional, you could run the Covid_simulation.ipynb file on your IDE if it has Ju
 - Demo video:
 
 - Libraries and system config: refer to config.txt file
+- if missing library, could try to pip install [package name] then import [package name]
