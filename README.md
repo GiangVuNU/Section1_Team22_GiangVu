@@ -1,2 +1,2 @@
-# Section1_Team23_GiangVu
+# Section1_Team22_GiangVu
 Final Project Repo for Virus Simulation - Algorithm Class
